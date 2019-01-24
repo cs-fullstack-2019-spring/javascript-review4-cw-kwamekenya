@@ -1,3 +1,5 @@
+### KEY: No code submission found
+
 # JavaScript Review 4 Classwork
 
 Put the start of your program in a main function in your JavaScript file. It's OK to just put all solutions in one JavaScript File as separate functions, but be sure to clearly separate each solution with comments
